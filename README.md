@@ -1,2 +1,2 @@
-# Dio.me Desafio
-## Introdução Prática ao TypeScript
+# Dio.me
+## Desafio - Introdução Prática ao TypeScript
